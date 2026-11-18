@@ -7,7 +7,9 @@ const resources = [
   { id: 5, name: "Car", category: "VEHICLE", owner: "SONU", contact: "Block D", status: "Available" },
   { id: 6, name: "Board Games Set", category: "GAMES", owner: "PRACHI", contact: "Block B", status: "Borrowed" },
   { id: 7, name: "Projector", category: "ELECTRONICS", owner: "VIRAT KOHLI", contact: "Block C", status: "Available" },
-  { id: 8, name: "Community Hall", category: "INDOOR", owner: "RAJAT", contact: "Block D", status: "Available" }
+  { id: 8, name: "Community Hall", category: "INDOOR", owner: "RAJAT", contact: "Block D", status: "Available" },
+  { id: 9, name: "Pool", category: "INDOOR", owner: "SAMMY", contact: "Block D", status: "Available" },
+  { id: 10, name: "Cricket Turf", category: "INDOOR", owner: "DHONI", contact: "Block E", status: "Available" }
 ];
 
 // ===== 2. STATE: values that change while the user uses the page =====
